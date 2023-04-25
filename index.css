@@ -29,7 +29,7 @@ p {
   text-align: start;
 }
 body {
-  background-color: #f9fafe;
+  background-color: #ffffff;
   margin: 0 5rem;
   display: grid;
   place-items: center;
@@ -65,7 +65,7 @@ main header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 2rem 1rem;
+  padding: 0 0rem 1rem;
   gap: 0.2rem;
 }
 header > div {
